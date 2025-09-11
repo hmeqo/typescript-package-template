@@ -19,7 +19,7 @@ lint and fromat
 # check
 pnpm lint
 
-# fix codeL
+# fix
 pnpm lint:fix
 ```
 
