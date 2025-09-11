@@ -1,3 +1,5 @@
+import { sum } from '@/index'
+
 test('Test Utils', () => {
-  expect(true).toBe(true)
+  expect(sum(1, 2)).toBe(3)
 })
