@@ -5,7 +5,7 @@ Please replace 'your-package-name' in project files with your package name.
 ## Install
 
 ```sh
-git clone https://github.com/hmmeqo/typescript-package-template.git your_package_name
+git clone https://github.com/hmeqo/typescript-package-template.git your_package_name
 cd your_package_name
 rm -rf .git
 pnpm install
