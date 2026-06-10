@@ -68,6 +68,11 @@ The package exports the following modules:
       "types": "./dist/errors/index.d.ts",
       "require": "./dist/errors/index.cjs",
       "default": "./dist/errors/index.js"
+    },
+    "./adapter/*": {
+      "types": "./dist/adapter/*.d.ts",
+      "require": "./dist/adapter/*.cjs",
+      "default": "./dist/adapter/*.js"
     }
   },
   "typesVersions": {
